@@ -5,5 +5,4 @@ cp .profile $HOME/.profile
 cp .bashrc $HOME/.bashrc
 cp .bash_profile $HOME/.bash_profile
 
-source $HOME/.bash_profile
 ln -s $HOME/.dotfiles/.gitconfig $HOME/.gitconfig
