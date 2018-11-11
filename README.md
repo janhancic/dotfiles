@@ -6,7 +6,7 @@ Not meant for general usage, heavily tailored for my use case.
 
 ```bash
 cd $HOME
-git clone https://github.com/janhancic/dotfiles.git .dotfile
+git clone https://github.com/janhancic/dotfiles.git .dotfiles
 cd .dotfiles
 ./install.sh
 ```
